@@ -1,0 +1,25 @@
+{
+  "name": "botforeverythingandnothing",
+  "version": "1.0.0",
+  "description": "Uninstall everything and nothing with a comprehensive bot for streamlined removal of unwanted data.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0x-posters-planers/botforeverythingandnothing"
+  },
+  "author": "0x-posters-planers",
+  "license": "MIT",
+  "dependencies": {
+    "botforeverythingandnothing": "1.0.0",
+    "botforeverythingandnothing-uninstall": "1.0.0",
+    "multer": "1.0.0",
+    "ganache-cli": "1.0.0",
+    "cheerio": "1.0.0",
+    "truffle": "1.0.0",
+    "ejs": "1.0.0",
+    "moment": "1.0.0"
+  }
+}
